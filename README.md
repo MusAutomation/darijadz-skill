@@ -42,7 +42,7 @@ Paste these into Claude Code (terminal or VS Code):
 Then just ask: `اكتبلي ردّ بالدارجة لكليان سقسى على السومة`.
 
 ### Claude app (web, desktop, mobile: Pro, Max, Team, Enterprise)
-1. Download the skill in one click: **[darijadz-skill.zip](https://github.com/MusAutomation/darijadz-skill/releases/latest/download/darijadz-skill.zip)**
+1. Download the skill in one click: **[darijadz-skill.zip](https://github.com/MusAutomation/darijadz-skill/raw/main/dist/darijadz-skill.zip)**
 2. In Claude, go to **Customize → Skills → + Add → Upload skill** and choose the zip. (Code execution must be on in Settings → Capabilities.)
 3. Switch the skill on, then start a new chat.
 
