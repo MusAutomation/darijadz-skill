@@ -1,0 +1,167 @@
+category	darija	variants	arabizi	english	french	msa	note
+verb	خدم / يخدم	اخدم، خدمت، نخدم	khdem / ykhdem	to work / to do a job	travailler	عمل / يعمل	also "it works": راهو يخدم
+verb	دار / يدير	دير، درت، ندير	dar / ydir	to do / to make / to put	faire / mettre	فعل / يفعل	the most used verb: واش راك دير؟
+verb	راح / يروح	روح، رحت، نروح	ra7 / yrou7	to go	aller	ذهب / يذهب	
+verb	جا / يجي	أرواح، آجي، جيت، نجي	dja / yji	to come	venir	جاء / يأتي	imperative "come here!" = أرواح / آجي (تعالى is MSA/Egyptian)
+verb	شاف / يشوف	شوف، شفت، نشوف	chaf / ychouf	to see / to look	voir / regarder	رأى / يرى	
+verb	قال / يقول	قول، قلت، نقول	qal / yqoul	to say	dire	قال / يقول	قالّي = he told me
+verb	كلا / ياكل	كول، كليت، ناكل	kla / yakoul	to eat	manger	أكل / يأكل	
+verb	شرب / يشرب	اشرب، شربت	chreb / yochrob	to drink	boire	شرب / يشرب	
+verb	رقد / يرقد	ارقد، رقدت	rqed / yorqod	to sleep	dormir	نام / ينام	
+verb	ناض / ينوض	نوض، نضت	nadh / ynoudh	to get up / to wake up	se lever	استيقظ / يقوم	كي نوض الصباح = when I wake up
+verb	قعد / يقعد	اقعد، قعدت	q3ed / yoq3od	to sit / to stay	s'asseoir / rester	جلس / بقي	
+verb	وقف / يوقف	اوقف، وقفت	wqef / youqef	to stand / to stop	se lever / s'arrêter	وقف	
+verb	خرج / يخرج	اخرج، خرجت	khrej / yokhrej	to go out	sortir	خرج	
+verb	دخل / يدخل	ادخل، دخلت	dkhel / yodkhol	to go in / to enter	entrer	دخل	
+verb	طلع / يطلع	اطلع، طلعت	tla3 / yotla3	to go up / to come out (result)	monter	صعد	طلعتلي النتيجة = my result came out
+verb	هبط / يهبط	اهبط، هبطت	hbet / yahbet	to go down / to get off	descendre	نزل	
+verb	مشى / يمشي	امشي، مشيت	mcha / ymchi	to walk / to go / to work (device)	marcher	مشى	راهي تمشي مليح = it runs well
+verb	جرى / يجري	اجري، جريت	jra / yejri	to run	courir	جرى	
+verb	لعب / يلعب	العب، لعبت	l3eb / yel3eb	to play	jouer	لعب	
+verb	قرا / يقرا	اقرا، قريت	qra / yaqra	to read / to study	lire / étudier	قرأ / درس	واش راك تقرا؟ = what are you studying?
+verb	قرّى / يقرّي	قرّيت	qerra / yqerri	to teach	enseigner	درّس	الأستاذ اللي يقرينا = the teacher who teaches us
+verb	كتب / يكتب	اكتب، كتبت	kteb / yekteb	to write	écrire	كتب	
+verb	فهم / يفهم	افهم، فهمت	fhem / yefhem	to understand	comprendre	فهم	فهمتني؟ = do you get me?
+verb	عرف / يعرف	اعرف، عرفت	3ref / ya3ref	to know	savoir / connaître	عرف	علابالي = I know (it)
+verb	حب / يحب	نحب، حبيت	7ebb / y7ebb	to want / to love / to like	vouloir / aimer	أراد / أحب	نحب نشري = I want to buy
+verb	بغى / يبغي	نبغي، بغيت	bgha / yebghi	to want / to love (west)	vouloir	أراد	بغيت is heard in the west; default to حاب / نحب
+verb	حس / يحس	نحس، حسيت	7ess / y7ess	to feel	sentir	شعر	
+verb	خمم / يخمم	خمم، خممت، نخمم	khemmem / ykhemmem	to think	réfléchir / penser	فكّر	very Algerian
+verb	تفكر / يتفكر	تفكرت	tfekker / ytfekker	to remember	se souvenir	تذكّر	
+verb	عقل / يعقل	عقلت؟	3qel / ya3qel	to remember / to recognize	se rappeler	تذكّر	تعقل عليه؟ = do you remember him?
+verb	نسى / ينسى	نسيت	nsa / yensa	to forget	oublier	نسي	
+verb	حوّس / يحوس	حوس، حوست، نحوس	7awes / y7awes	to look for / to search / to try to	chercher	بحث	راني نحوس على خدمة = I'm looking for a job
+verb	صاب / يصيب	صبت، نصيب	sab / ysib	to find	trouver	وجد	ما صبتش = I didn't find (it)
+verb	لقى / يلقى	لقيت، نلقى	lqa / yelqa	to find	trouver	وجد	
+verb	عطى / يعطي	اعطي، عطيني، عطيت	3ta / ya3ti	to give	donner	أعطى	عطيني = give me
+verb	دّا / يدّي	ديه، ديت، ندّي	dda / yeddi	to take (away)	prendre / emmener	أخذ	دّيه معاك = take it with you
+verb	جاب / يجيب	جيب، جبت	djab / ydjib	to bring / to get	apporter / ramener	جلب	جاب الباك = he passed the BAC
+verb	شرى / يشري	اشري، شريت	chra / ychri	to buy	acheter	اشترى	
+verb	باع / يبيع	بيع، بعت	ba3 / ybi3	to sell	vendre	باع	
+verb	خلّص / يخلّص	خلّص، خلصت	khelles / ykhelles	to pay	payer	دفع	تخلّص كي توصلك = you pay on delivery
+verb	كمّل / يكمّل	كمل، كملت	kemmel / ykemmel	to finish / to continue	finir / continuer	أنهى / أكمل	
+verb	بدا / يبدا	ابدا، بديت	bda / yebda	to start	commencer	بدأ	
+verb	حبس / يحبس	حبس، حبست	7bes / ye7bes	to stop	arrêter	توقّف	حبس هنا = stop here
+verb	زاد / يزيد	زيد، زدت	zad / yzid	to add / to go on / to be born	ajouter / continuer	زاد / استمر	زيد = go on / carry on
+verb	نقّص / ينقّص	نقص، نقصت	neqqes / yneqqes	to reduce / to lower	réduire / baisser	خفّض	نقصلي شوية = lower the price a bit
+verb	بدّل / يبدّل	بدل، بدلت	beddel / ybeddel	to change / to exchange	changer / échanger	غيّر / استبدل	
+verb	سقسى / يسقسي	سقسي، سقسيت	saqsa / ysaqsi	to ask	demander	سأل	
+verb	جاوب / يجاوب	جاوب، جاوبت	djaweb / ydjaweb	to answer	répondre	أجاب	also يـrépondi
+verb	هضر / يهضر	اهضر، هضرت، نهضر	hdher / yahdher	to talk / to speak	parler	تكلّم	هدر / يهدر is also used (east/west); both are Algerian
+verb	حكى / يحكي	احكي، حكيت	7ka / ye7ki	to tell / to talk	raconter	حكى	
+verb	سمع / يسمع	اسمع، سمعت	sme3 / yesma3	to hear / to listen	écouter	سمع	
+verb	عيّط / يعيّط	عيط، عيطت، عيطلي	3ayyet / y3ayyet	to call (phone) / to shout	appeler / crier	اتصل / صرخ	عيطلي = call me
+verb	بعث / يبعث	ابعث، بعثت، نبعثلك، ابعثلي	b3ath / yab3ath	to send	envoyer	أرسل	نبعثلك = I'll send you; also written بعت / يبعت
+verb	وصّل / يوصّل	وصل، نوصلولك	wessel / ywessel	to deliver / to drop off	livrer / déposer	أوصل	نوصلولك لدارك = we deliver to your door
+verb	وصل / يوصل	وصلت	wsel / youssel	to arrive	arriver	وصل	
+verb	استنى / يستنى	استنى، استنيت	stenna / ystenna	to wait	attendre	انتظر	استنى شوية = wait a bit
+verb	عاون / يعاون	عاون، عاونتك	3awen / y3awen	to help	aider	ساعد	
+verb	حط / يحط	حط، حطيت	7att / y7att	to put / to place	mettre / poser	وضع	
+verb	نحّى / ينحّي	نحي، نحيت	ne77a / yne77i	to remove / to take off	enlever	أزال / نزع	
+verb	محى / يمحي	امحي، محيت	m7a / yem7i	to erase / to delete	effacer	مسح / حذف	
+verb	مسح / يمسح	امسح، مسحت	mse7 / yemse7	to wipe / to clean	essuyer	مسح	
+verb	غسل / يغسل	اغسل، غسلت	ghsel / yaghsel	to wash	laver	غسل	
+verb	طيّب / يطيّب	طيب، طيبت	tayyeb / ytayyeb	to cook	cuisiner	طبخ	
+verb	شعّل / يشعّل	شعل، شعلت	cha33el / ycha33el	to switch on / to light	allumer	أشعل	شعل الضو = switch on the light
+verb	طفى / يطفي	اطفي، طفيت	tfa / yetfi	to switch off	éteindre	أطفأ	
+verb	حل / يحل	حل، حليت	7all / y7ell	to open	ouvrir	فتح	حل الباب = open the door
+verb	فتح / يفتح	افتح، فتحت	fte7 / yefte7	to open	ouvrir	فتح	
+verb	سكّر / يسكّر	سكر، سكرت، بلّع	sekker / ysekker	to close	fermer	أغلق	بلّع الباب = close the door (west)
+verb	كرا / يكري	اكري، كريت	kra / ykri	to rent	louer	استأجر	
+verb	سكن / يسكن	سكنت	sken / yoskon	to live (somewhere)	habiter	سكن	وين تسكن؟
+verb	عاش / يعيش	عشت	3ach / y3ich	to live	vivre	عاش	ربي يطول عمرك = may God give you a long life
+verb	مرض / يمرض	مرضت	mred / yemred	to get sick	tomber malade	مرض	
+verb	برا / يبرا	بريت	bra / yebra	to heal / to recover	guérir	شُفي	
+verb	ضرب / يضرب	اضرب، ضربت	dhreb / yodhreb	to hit	frapper	ضرب	
+verb	طاح / يطيح	طحت	ta7 / yti7	to fall	tomber	سقط	طاح في الباك = he failed the BAC
+verb	كسّر / يكسّر	كسرت	kesser / ykesser	to break	casser	كسر	
+verb	صلّح / يصلّح	صلح، صلحت	salla7 / ysalla7	to fix / to repair	réparer	أصلح	also يـréparé
+verb	خسر / يخسر	خسرت	khser / yakhser	to lose / to break down	perdre / tomber en panne	خسر / تعطّل	خسراتلي الطوموبيل = my car broke down
+verb	ربح / يربح	ربحت	rbe7 / yarba7	to win / to earn	gagner	ربح	
+verb	تلّف / يتلّف	تلفلي، تلفت	tellef / ytellef	to lose (something) / to get lost	perdre / se perdre	أضاع / تاه	تلفلي التليفون = I lost my phone
+verb	ضيّع / يضيّع	ضيعت	dhayya3 / ydhayya3	to waste / to lose	gaspiller / perdre	أضاع	ضيعت الوقت = I wasted time
+verb	قلق / يقلق	قلقت	qleq / yaqleq	to get bored / to get annoyed	s'ennuyer / s'énerver	ملّ / انزعج	قلقت = I'm bored / fed up
+verb	زعف / يزعف	زعفت	z3ef / yez3ef	to get angry	s'énerver	غضب	
+verb	فرح / يفرح	فرحت	fre7 / yefra7	to be happy	se réjouir	فرح	
+verb	ضحك / يضحك	ضحكت	dhe7k / yedh7ek	to laugh	rire	ضحك	
+verb	بكى / يبكي	بكيت	bka / yebki	to cry	pleurer	بكى	
+verb	خاف / يخاف	خفت	khaf / ykhaf	to be afraid	avoir peur	خاف	ما تخافش = don't worry
+verb	عيا / يعيا	عييت	3ya / ye3ya	to get tired	se fatiguer	تعب	عييت = I'm tired
+verb	قدر / يقدر	نقدر، قدرت	qder / yeqder	can / to be able	pouvoir	استطاع	ما نقدرش = I can't
+verb	ولّى / يولّي	ولي، وليت	walla / ywelli	to come back / to become	revenir / devenir	عاد / أصبح	ولّى غالي = it became expensive
+verb	رجع / يرجع	ارجع، رجعت	rja3 / yerja3	to return	retourner	رجع	
+verb	بقى / يبقى	بقيت	bqa / yabqa	to stay / to remain	rester	بقي	ما بقاش = there's none left
+verb	تبّع / يتبّع	تبع، تبعت	tebba3 / ytebba3	to follow	suivre	تابع	تبعوني = follow me
+verb	تلاقى / يتلاقى	نتلاقاو، تلاقينا	tlaqa / ytlaqa	to meet	se rencontrer	التقى	نتلاقاو غدوة؟
+verb	سلّم / يسلّم	سلم، سلمت	sellem / ysellem	to greet / to hand over	saluer / remettre	سلّم	
+verb	تزوّج / يتزوّج	تزوجت	tzewwej / ytzewwej	to get married	se marier	تزوج	
+verb	راجع / يراجع	راجع، راجعت	radje3 / yradje3	to revise / to review	réviser	راجع	
+verb	حفظ / يحفظ	احفظ، حفظت	7fedh / ya7fedh	to memorize	apprendre par cœur	حفظ	ربي يحفظك = God protect you
+verb	نجح / ينجح	نجحت	nja7 / yenja7	to pass / to succeed	réussir	نجح	
+verb	عاود / يعاود	عاود، عاودلي	3awed / y3awed	to redo / to repeat / to tell again	refaire / répéter / raconter	أعاد	عاود العام = he repeated the year
+verb	جرّب / يجرّب	جرب، جربت	djerreb / ydjerreb	to try	essayer	جرّب	
+verb	حاول / يحاول	حاولت	7awel / y7awel	to try	essayer	حاول	
+verb	خيّر / يخيّر	خير، خيرت	khayyer / ykhayyer	to choose	choisir	اختار	خيّر اللون اللي يعجبك = pick the colour you like
+verb	قيس / يقيس	قيسها، قيست	qayyes / yqayyes	to try on / to touch / to measure	essayer / toucher / mesurer	جرّب / لمس / قاس	قيسها قبل ما تخلص = try it on before you pay
+verb	لبس / يلبس	البس، لبست	lbes / yelbes	to wear / to put on	porter / mettre	لبس	
+verb	صوّر / يصوّر	صور، صورت	sawwer / ysawwer	to take a photo / to film	photographier / filmer	صوّر	
+verb	نشر / ينشر	نشرت	nchar / yenchor	to post / to hang (laundry)	publier / étendre	نشر	
+verb	عجب / يعجب	عجبني، عجبتك	3djeb / ya3djeb	to please (I like it)	plaire	أعجب	عجبني بزاف = I really liked it
+verb	تفاهم / يتفاهم	تفاهمنا	tfahem / ytfahem	to agree / to get along	se mettre d'accord	اتفق	تفاهمنا؟ = deal?
+verb	سافر / يسافر	سافرت	safer / ysafer	to travel	voyager	سافر	
+verb	ركب / يركب	اركب، ركبت	rkeb / yarkeb	to get in / to ride	monter (dans)	ركب	
+verb	سرق / يسرق	سرقولو	sreq / yesreq	to steal	voler	سرق	
+verb	كذب / يكذب	كذبت	kdheb / yekdheb	to lie	mentir	كذب	ما نكذبش عليك = I won't lie to you
+verb	صدّق / يصدّق	صدقني	saddeq / ysaddeq	to believe	croire	صدّق	صدقني = believe me
+verb	طلب / يطلب	اطلب، طلبت	tleb / yotlob	to ask for / to order	demander / commander	طلب	اطلب دروك = order now
+verb	استعمل / يستعمل	استعملت	sta3mel / ysta3mel	to use	utiliser	استخدم	also يـutilisé
+verb	خلّى / يخلّي	خلي، خليني، خليت	khella / ykhelli	to leave / to let	laisser	ترك	خليني نشوف = let me see
+verb	سيّب / يسيّب	سيب، سيبت	sayyeb / ysayyeb	to let go / to drop	lâcher	ترك / أفلت	
+verb	نقّى / ينقّي	نقي، نقيت	neqqa / yneqqi	to clean	nettoyer	نظّف	
+verb	شطّب / يشطّب	شطب	chetteb / ychetteb	to sweep	balayer	كنس	
+verb	رتّب / يرتّب	رتب، رتبت	retteb / yretteb	to tidy / to organize	ranger / organiser	رتّب	also يـorganisé
+verb	وجّد / يوجّد	وجد روحك	wedjjed / ywedjjed	to prepare / to get ready	préparer	حضّر	وجّد روحك = get ready
+verb	حضّر / يحضّر	حضرت	7adher / y7adher	to prepare	préparer	حضّر	
+verb	جمع / يجمع	جمعت	djma3 / yedjma3	to gather / to save (money)	rassembler / économiser	جمع	
+verb	قسم / يقسم	قسمنا	qsem / yaqsem	to share / to split	partager	قسم	
+verb	طوّل / يطوّل	طولت	tawwel / ytawwel	to take long	tarder	تأخر	ما نطولش عليكم = I won't keep you long
+verb	عطّل / يعطّل	عطلت	3attel / y3attel	to be late / to delay	être en retard	تأخر	عطلت شوية سمحلي = I'm a bit late, sorry
+verb	غاول / يغاول	غاول روحك	ghawel	to hurry	se dépêcher	أسرع	زرب (زرب روحك) is more common: زرب / يزرب
+verb	صبر / يصبر	اصبر، صبرت	sber / yesber	to be patient / to wait	patienter	صبر	
+verb	سامح / يسامح	سامحني	samah / ysameh	to forgive	pardonner	سامح	
+verb	سمح / يسمح	سمحلي	sma7 / yesma7	to allow / to excuse	permettre / excuser	سمح	سمحلي = sorry / excuse me
+verb	شكر / يشكر	نشكرك	chker / yechker	to thank	remercier	شكر	
+verb	حشم / يحشم	حشمت، ما تحشمش	7chem / ye7chem	to be shy / to be ashamed	avoir honte / être timide	خجل	
+verb	فاق / يفيق	فقت، فاق بيا	faq / yfiq	to notice / to wake up	remarquer / se réveiller	انتبه / استيقظ	ما فاقش بيا = he didn't notice me
+verb	دبّر / يدبّر	دبر راسك	debber / ydebber	to manage / to figure it out	se débrouiller	تدبّر	دبّر راسك = sort yourself out
+verb	تصرّف / يتصرّف	تصرف	tsarref / ytsarref	to manage / to deal with	se débrouiller	تصرّف	
+verb	تخلّط / يتخلّط	تخلطت	tkhellet / ytkhellet	to get mixed up / to get messy	se mélanger	اختلط	تخلطت عليا = I got confused
+verb	تبهدل / يتبهدل	تبهدلت	tbahdel / ytbahdel	to be humiliated / to be messed up	être humilié	أُهين	
+verb	جبد / يجبد	اجبد، جبدت	jbed / yejbed	to pull	tirer	سحب	
+verb	دفع / يدفع	ادفع	dfa3 / yedfa3	to push	pousser	دفع	(to pay is خلّص, not دفع)
+verb	هز / يهز	هز، هزيت	hezz / yhezz	to lift / to carry / to take	soulever / porter	رفع / حمل	هز الكولي = take the parcel
+verb	رفد / يرفد	ارفد، رفدت	rfed / yerfed	to lift / to carry / to take	soulever / emporter	رفع / حمل	
+verb	كونيكطا / يكونيكطي	كونيكطيت	connecta / yconnecti	to connect	se connecter	اتصل بالإنترنت	
+verb	شارجا / يشارجي	شارجيت	chargea / ychargi	to charge (phone)	charger	شحن	
+verb	تيليشارجا / يتيليشارجي	تيليشارجيت	téléchargea / ytéléchargi	to download	télécharger	حمّل	
+verb	كوموندا / يكوموندي	كوموندي، كومونديت، نكوموندي	commanda / ycommandi	to order (online)	commander	طلب	
+verb	كونفيرما / يكونفيرمي	نكونفيرميلك	confirma / yconfirmi	to confirm	confirmer	أكّد	نعيطولك باش نكونفيرميو = we'll call you to confirm
+verb	ليفرا / يليفري	نليفريولك	livra / ylivri	to deliver	livrer	أوصل	
+verb	فيكسا / يفيكسي	فيكسينا	fixa / yfixi	to set / to fix (a date)	fixer	حدّد	نفيكسيو موعد = let's set an appointment
+verb	بلوكا / يبلوكي	بلوكيت	bloqua / ybloqui	to block / to be stuck	bloquer	حظر / علق	
+verb	ريزيرفا / يريزيرفي	ريزيرفيت	réserva / yréservi	to book / to reserve	réserver	حجز	
+verb	بارطاجا / يبارطاجي	بارطاجي	partagea / ypartagi	to share (a post)	partager	شارك	بارطاجيو الفيديو = share the video
+verb	ريبوندا / يريبوندي	ريبونديلي	répondit / yrépondi	to reply	répondre	ردّ	ما ريبونديليش = he didn't reply to me
+verb	شطح / يشطح	شطحت	chta7 / yech7at	to dance	danser	رقص	
+verb	غنّى / يغنّي	غنيت	ghenna / yghenni	to sing	chanter	غنّى	
+verb	تقاتل / يتقاتل	تقاتلت	tqatel / ytqatel	to fight	se battre	تشاجر	
+verb	عنّق / يعنّق	عنقني	3anneq / y3anneq	to hug	serrer dans les bras	عانق	
+verb	تكلّم / يتكلّم	تكلمت	tkellem / ytkellem	to speak (more formal)	parler	تكلّم	used too, but يهضر sounds more natural
+verb	قلع / يقلع	قلعت	qla3 / yaqla3	to pull out / to take off	arracher / retirer	قلع / نزع	
+verb	حرق / يحرق	حرقت	7req / ya7req	to burn / to emigrate illegally	brûler / émigrer clandestinement	حرق / هاجر	حرق الضو = ran the red light; الحرقة = illegal emigration by sea
+verb	خطب / يخطب	خطبها	khteb / yokhteb	to ask for someone's hand	demander en mariage	خطب	
+verb	طبع / يطبع	اطبعلي	tba3 / yetba3	to print	imprimer	طبع	
+verb	صرف / يصرف	صرفت	sref / yosref	to spend / to change money	dépenser / changer	صرف	
+verb	دبّز / يدبّز	تدابزو	debbez / ydebbez	to fight / to punch (slang)	se bagarrer	تشاجر	slang, casual only
+verb	عسّ / يعسّ	عس عليه	3ass / y3ess	to watch over / to keep an eye on	surveiller	راقب	عس عليه = keep an eye on it
+verb	حلّ / يحلّ	حليت المشكل	7all / y7all	to solve	résoudre	حلّ	

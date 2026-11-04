@@ -1,0 +1,12 @@
+{
+  "name": "musautomation",
+  "owner": { "name": "Mus Automation" },
+  "plugins": [
+    {
+      "name": "darijadz",
+      "source": "./",
+      "description": "Real Algerian Darija for Claude: e-commerce, content creators, teachers, business.",
+      "version": "2.0.0"
+    }
+  ]
+}

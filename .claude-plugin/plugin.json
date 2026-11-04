@@ -1,0 +1,8 @@
+{
+  "name": "darijadz",
+  "description": "Make Claude write real Algerian Darija (الدارجة الجزائرية): e-commerce, content, teaching, business. 1,659 examples, 689-word lexicon, dialect linter.",
+  "version": "2.0.0",
+  "author": { "name": "Mus Automation" },
+  "license": "MIT",
+  "keywords": ["darija", "algeria", "dz", "arabic", "dialect"]
+}

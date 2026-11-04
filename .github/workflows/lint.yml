@@ -1,0 +1,24 @@
+name: lint
+on: [push, pull_request]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate TSV data
+        run: python3 tools/build.py --check
+      - name: References are up to date
+        run: |
+          python3 tools/build.py
+          git diff --exit-code skills/darijadz/references
+      - name: Lint examples (no HIGH findings)
+        run: |
+          for f in data/examples/*.tsv; do
+            col=0; case "$(basename "$f")" in 14_*|15_*) col=1;; esac
+            python3 skills/darijadz/scripts/darija_lint.py --strict --col $col "$f" > /dev/null || { echo "HIGH findings in $f"; python3 skills/darijadz/scripts/darija_lint.py --col $col "$f"; exit 1; }
+          done
+      - name: Lint the skill text
+        run: python3 skills/darijadz/scripts/darija_lint.py --strict skills/darijadz/SKILL.md skills/darijadz/references/*.md skills/darijadz/references/domains/*.md

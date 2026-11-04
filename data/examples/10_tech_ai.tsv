@@ -1,0 +1,74 @@
+# Explaining AI simply
+الذكاء الاصطناعي هو برنامج تعلّم من بزاف تاع النصوص والصور، ودروك يقدر يجاوبك ويعاونك.	Artificial intelligence is a program that learned from huge amounts of text and images, and now it can answer and help you.
+الـ AI ما يفكرش كيما الإنسان، بصح يقدر يكتب، يلخص ويترجم في ثواني.	AI doesn't think like a human, but it can write, summarise and translate in seconds.
+الـ prompt هو الكلام اللي تكتبو للـ AI باش يفهم واش حاب.	A prompt is what you write to the AI so it understands what you want.
+كل ما كان الـ prompt واضح، كل ما كانت النتيجة خير.	The clearer the prompt, the better the result.
+ما تقولوش "اكتبلي بوست" برك، قولّو لشكون، على واش، وبأي ستيل.	Don't just say "write me a post", tell it for whom, about what, and in which style.
+عطيه مثال تاع واش حاب، يفهمك خير.	Give it an example of what you want, it understands you better.
+الـ AI يقدر يغلط، ديما عاود شوف المعلومات المهمة.	AI can make mistakes, always double-check important information.
+ما تحطش المعلومات الشخصية تاع الكليان في أي AI.	Don't put your customers' personal data into any AI.
+# Using Claude and chat assistants
+سقسيت Claude يكتبلي كابشن بالدارجة، وجاني كيما نهضرو حنا.	I asked Claude to write me a caption in Darija, and it came out just like we speak.
+قولّو: "اكتب بالدارجة الجزائرية، بالحروف العربية، وخلي الكلمات الفرنسية بالحروف اللاتينية."	Tell it: "Write in Algerian Darija, in Arabic letters, and keep French words in Latin letters."
+طلبت منو يلخصلي ملف PDF تاع 40 صفحة في 10 نقاط.	I asked it to summarise a 40-page PDF into 10 points.
+خليتو يحضرلي الأسئلة تاع entretien ونتدرب معاه.	I had it prepare interview questions and practised with it.
+عاونني نكتب إيمايل بالفرنسية للإدارة، وصححلي الغلطات.	It helped me write an email in French to the administration and corrected my mistakes.
+إذا ما عجبتكش الإجابة، قولّو واش ماشي مليح ويعاود.	If you don't like the answer, tell it what's wrong and it'll redo it.
+# Automation and agents
+الـ automation معناه تخلي الماشينة تدير الخدمة اللي تعاودها كل نهار.	Automation means letting the machine do the work you repeat every day.
+بالـ n8n نربطو الفورم تاع الكوموند مع Google Sheets ومع الواتساب.	With n8n we connect the order form with Google Sheets and WhatsApp.
+كي يكوموندي الكليان، يوصلو ميساج تأكيد وحدو.	When a customer orders, they get a confirmation message automatically.
+الـ agent هو AI يدير مهام وحدو: يقرا، يقرر، ويخدم بالأدوات.	An agent is an AI that does tasks on its own: it reads, decides and uses tools.
+بنيت agent يجاوب على الأسئلة تاع التوصيل في الخاص.	I built an agent that answers delivery questions in the inbox.
+الـ agent ما يعوضش الخدام، يريحو من الخدمة اللي تقلق.	The agent doesn't replace the worker, it frees them from boring tasks.
+قبل ما تدير automation، اكتب الخطوات تاع الخدمة بيدك.	Before you automate, write down the steps of the work by hand.
+ابدا بـ automation وحدة صغيرة، كي تخدم زيد الثانية.	Start with one small automation, when it works add the next.
+# Coding and Claude Code
+Claude Code يخدم في الـ terminal، يقرا الملفات ويكتب الكود معاك.	Claude Code works in the terminal, it reads files and writes code with you.
+الملف CLAUDE.md فيه القواعد تاع المشروع، Claude يقراه قبل ما يبدا.	The CLAUDE.md file holds the project's rules, Claude reads it before starting.
+قولّو واش تحب بالتفصيل، ومن بعد شوف الكود قبل ما تقبل.	Tell it what you want in detail, then review the code before accepting.
+الكود خدم من الخطرة اللولة، ما صدقتش!	The code worked first time, I couldn't believe it!
+كاين bug، الصفحة ما تحملش.	There's a bug, the page won't load.
+ابعثلي l'erreur كاملة، ما نقدرش نعاونك بلا بيها.	Send me the full error, I can't help you without it.
+دير commit قبل ما تبدل حاجة كبيرة.	Make a commit before changing anything big.
+السيت راهو en ligne، شوفو وقولّي رايك.	The website is live, have a look and tell me what you think.
+# Phones and computers
+البورطابل تاعي ثقل بزاف، واش ندير؟	My phone has become really slow, what should I do?
+نحّي التطبيقات اللي ما تستعملهمش، وفرّغ الميموار.	Remove the apps you don't use and free up the memory.
+دير mise à jour للسيستام، كاين تصليحات جداد.	Update the system, there are new fixes.
+البيسي سخون بزاف ويطفى وحدو.	The computer gets very hot and switches off on its own.
+الشاشة تكسرت، شحال يكلف التصليح؟	The screen is cracked, how much will the repair cost?
+الكلافي ما يكتبش بالعربية، كيفاش نبدل اللغة؟	The keyboard won't type in Arabic, how do I change the language?
+نقل الصور للكلاود باش ما يضيعوش.	Move your photos to the cloud so they don't get lost.
+# Internet and networks
+الكونيكسيون مقطوعة في الحومة كاملة.	The connection is down in the whole neighbourhood.
+شريت فورفي تاع 4G، بصح الريزو ضعيف هنا.	I bought a 4G plan, but the signal is weak here.
+الويفي يخدم بصح ما كانش الأنترنت.	The wifi is on but there's no internet.
+طفي الموديم وشعلو بعد دقيقة.	Turn the modem off and on again after a minute.
+الفيبر وصلت لحومتنا أخيراً، الكونيكسيون ولات طيارة.	Fibre finally reached our neighbourhood, the connection is flying now.
+# Social media management
+نحطو 3 بوستات في السمانة وريل كل نهار.	We post 3 times a week and a reel every day.
+الريلز يجيبو الأبوني أكثر من الصور.	Reels bring more followers than photos.
+الوقت المليح باش تحط في الدزاير هو من 8 حتى 11 الليل.	The best time to post in Algeria is from 8 to 11 pm.
+شوف الإحصائيات: شكون يتفرج، منين، ووقتاش.	Look at the statistics: who watches, from where and when.
+ما تشريش الأبوني، ما يجيبولك حتى كوموند.	Don't buy followers, they won't bring you a single order.
+الإشهار المموّل لازمو target مليح، ماشي كامل الدزاير.	Paid ads need good targeting, not the whole of Algeria.
+جربنا زوج فيديوهات بنفس الإشهار، والثاني جاب الضعف.	We tested two videos with the same ad, and the second brought double.
+# Online safety
+ما تعطيش الكود اللي يجيك في الميساج لحتى واحد.	Don't give the code you get by text message to anyone.
+هادا arnaque: حتى بنك ما يطلب منك المو دو باس.	That's a scam: no bank asks you for your password.
+دير مو دو باس قوي، ماشي تاريخ الزيادة تاعك.	Use a strong password, not your date of birth.
+فعّل la double authentification على الحساب تاعك.	Turn on two-factor authentication on your account.
+الحساب تاعي تسرق، شكون يعرف كيفاش نرجعو؟	My account got hacked, who knows how to get it back?
+ما تكليكيش على أي ليان يجيك من عند واحد ما تعرفوش.	Don't click any link from someone you don't know.
+# Talking about tech with family
+يما، هاد الزر تاع الكاميرا، وهادا باش تبعثي الصورة.	Mum, this is the camera button, and this one sends the photo.
+بابا حاب يتعلم الواتساب، قعدت معاه ساعة.	Dad wants to learn WhatsApp, I sat with him for an hour.
+الدراري لازم يكون عندهم وقت محدد للتابلات.	Kids need a fixed time limit for tablets.
+جدتي ولات تبعثلنا فوكال كل نهار 😂	My grandmother now sends us voice notes every day 😂
+# Tech jobs and learning
+تعلمت البرمجة من يوتيوب، بلا ما نروح لحتى مدرسة.	I learned programming from YouTube, without going to any school.
+ابدا بـ Python، ساهلة ومليحة للمبتدئين.	Start with Python, it's easy and good for beginners.
+الإنجليزية مهمة بزاف في التكنولوجيا، كامل الدوكيمونتاسيون بيها.	English is very important in tech, all the documentation is in it.
+الفريلانس في البرمجة يخلّص بالدولار، بصح المشكل في الخلاص للدزاير.	Freelance programming pays in dollars, but the problem is getting paid in Algeria.
+ديرلك بورتفوليو فيه 3 مشاريع حقيقيين.	Make yourself a portfolio with 3 real projects.
