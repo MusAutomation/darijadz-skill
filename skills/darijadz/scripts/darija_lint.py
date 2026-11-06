@@ -164,7 +164,7 @@ M.pop("أمس", None)
 NM = {}
 for k, v in M.items():
     NM.setdefault(norm(k), v)
-SAFE = {"وشنو"}  # normalised words that are fine in Algerian Darija (وشنو = western "what")
+SAFE = {"وشنو", "فوايد"}  # normalised words that are fine in Algerian Darija (وشنو = western "what")
 
 TOKEN = re.compile("[\u0621-\u063A\u0640-\u0652\u0670-\u06D3]+")  # Arabic letters + harakat, without ، ؛ ؟
 PREFIX = ("و", "ف")      # و/ف glued to the next word
